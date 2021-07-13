@@ -1,0 +1,1 @@
+пример реализации слайдера https://oxyrud.github.io/slider/
